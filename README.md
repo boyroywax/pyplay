@@ -29,6 +29,7 @@ Build Discord Tip Bot from scratch with Python3.7 and asyncio
 - HTTP and REST: Requests package
 - Container: Docker + Kubernetes for management
 - Continuous Integration: Travis
+- minikube - https://github.com/kubernetes/minikube
 
 ## Process
 1. Update Discord Bot Core to Asyncio Python 3.7
